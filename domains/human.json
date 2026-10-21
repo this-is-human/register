@@ -1,0 +1,22 @@
+{
+  "owner": {
+    "username": "this-is-human",
+    "email": "thisishuman@duck.com"
+  },
+  "records": {
+    "MX": [
+      {
+        "target": "mx1.forwardemail.net",
+        "priority": 0
+      },
+      {
+        "target": "mx2.forwardemail.net",
+        "priority": 0
+      }
+    ],
+    "TXT": [
+      "forward-email=thisishuman@duck.com",
+      "v=spf1 include:spf.forwardemail.net -all"
+    ]
+  }
+}
