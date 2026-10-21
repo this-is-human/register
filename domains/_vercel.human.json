@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "this-is-human",
+    "email": "thisishuman@duck.com"
+  },
+  "records": {
+    "TXT": [
+      "vc-domain-verify=vc-domain-verify=is-a.dev,c27f76decc016b714816"
+    ]
+  }
+}
